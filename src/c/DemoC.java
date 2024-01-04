@@ -21,6 +21,11 @@ public class DemoC {
 		System.out.println(a/b);
 		
 	}
+	//from github
+	public static void sub (int a, int b,int c) {
+			System.out.println(a-b-c);
+			
+		}
 	}
 
 
