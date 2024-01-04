@@ -6,7 +6,12 @@ public class DemoC {
 		System.out.println("CCCCCCCCCC");
 		System.out.println("CCCCCCCCCC");
 		System.out.println("CCCCCCCCCC");
-		//https://github.com/Kit-Kat911/ProjectC.git
+		
+	}
+		public static void add (int a, int b) {
+			System.out.println(a+b);
+			
+		}
 	}
 
-}
+
