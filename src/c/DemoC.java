@@ -6,7 +6,11 @@ public class DemoC {
 		System.out.println("CCCCCCCCCC");
 		System.out.println("CCCCCCCCCC");
 		System.out.println("CCCCCCCCCC");
-		System.out.println("Trying to send to my eclips");
+		System.out.println("trying to push");
+		System.out.println("can someone kill me please");
+		
+		
+
 		
 	}
 		public static void add (int a, int b) {
@@ -27,6 +31,10 @@ public class DemoC {
 			System.out.println(a-b-c);
 			
 		}
+	
+	public void killME (int f, int m,int l ) {
+		System.out.println(f+m+l);
+	}
 	}
 
 
