@@ -6,6 +6,7 @@ public class DemoC {
 		System.out.println("CCCCCCCCCC");
 		System.out.println("CCCCCCCCCC");
 		System.out.println("CCCCCCCCCC");
+		System.out.println("Trying to send to my eclips");
 		
 	}
 		public static void add (int a, int b) {
